@@ -43,7 +43,7 @@ Hello there! I'm passionate about game development and a firm believer in the po
 
 ## Social Media
 
-- **Twitter:** [@cultistofdaedra](https://twitter.com/cultistofdaedra](https://twitter.com/cultistofdaedra)
+- **Twitter:** [@cultistofdaedra](https://twitter.com/cultistofdaedra)
 - **LinkedIn:** [Robert O'Shea](https://www.linkedin.com/in/robert-oshea-ireland/)
 - **Mastodon**: [@boethiah](https://mastodon.gamedev.place/@boethiah)
 
